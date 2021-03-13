@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color: rgb(126, 81, 81);
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+p {
+    color: white;
+}
+
+span {
+    color: black;
+}
+
+.main-title {
+    color: green;
+}
+
+h1.main-title {
+    font-size: 50px;
+}
